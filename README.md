@@ -1,1 +1,2 @@
-# chrome-text-bookmarks
+Convert Chrome HTML bookmarks to text.
+
